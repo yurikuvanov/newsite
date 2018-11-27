@@ -1,0 +1,9 @@
+{
+  "name": "newsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "hugo-bin": "^0.39.0"
+  }
+}
